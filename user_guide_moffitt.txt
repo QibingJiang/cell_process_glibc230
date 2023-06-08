@@ -1,8 +1,8 @@
 First, download the executable program:
-git clone https://github.com/QibingJiang/cell_process_moffitt.git
+git clone https://github.com/QibingJiang/cell_process_glibc230.git
 
 Second, run the following command,
-cd cell_process_moffitt
+cd cell_process_glibc230
 chmod a=rwx ./cell_process/cell_process
 ./cell_process/cell_process configure.txt input_dir
 input_dir is the directory where the images are. For example, 
